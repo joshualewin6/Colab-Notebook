@@ -1,2 +1,2 @@
 # Colab-Notebook
-Here are all my google collab assignments and notes.
+Here are all my google colab assignments and notes.
