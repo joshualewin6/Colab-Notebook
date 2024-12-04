@@ -1,4 +1,4 @@
-Entity,Code,Year,life_expectancy_0__sex_total__age_0,gdp_per_capita,900793-annotations,population_historical,owid_region
+Entity,Code,Year,life_expectancy,gdp_per_capita,900793-annotations,population,owid_region
 Afghanistan,AFG,2022,65.617,1357.9878,,40578846,
 Africa,,2022,62.9205,,,1446883817,
 Africa (UN),,2022,,,,1446883651,
